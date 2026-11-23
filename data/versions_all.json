@@ -1,0 +1,602 @@
+[
+ {
+  "tag": "0.11_The_Long_Road_Home",
+  "ver": "0.11",
+  "major": "0",
+  "sha": "9936818e5d3aab875c35f0ef5d6e448cdb8401ed"
+ },
+ {
+  "tag": "0.11.1",
+  "ver": "0.11.1",
+  "major": "0",
+  "sha": "12ce47b724ecbd1487e52bca8b2c1cb222dcdd68"
+ },
+ {
+  "tag": "0.11.2",
+  "ver": "0.11.2",
+  "major": "0",
+  "sha": "f7d0e047c478d324d2ff79abd4a76d262defa783"
+ },
+ {
+  "tag": "0.12_Stay_at_Home",
+  "ver": "0.12",
+  "major": "0",
+  "sha": "51efaec26e4a1f00b3b3cf7aab210eb6dd66f07a"
+ },
+ {
+  "tag": "0.12.1",
+  "ver": "0.12.1",
+  "major": "0",
+  "sha": "6566fceaf6cc8fe61811026093bc4f9225be7a67"
+ },
+ {
+  "tag": "0.12.2",
+  "ver": "0.12.2",
+  "major": "0",
+  "sha": "cf64d1532db10da1ffa6f21f8831dcdee975fbf8"
+ },
+ {
+  "tag": "0.13_A_King_and_his_Captain",
+  "ver": "0.13",
+  "major": "0",
+  "sha": "0f3c1b6de658db40e28180282c4435badf085526"
+ },
+ {
+  "tag": "0.13.1",
+  "ver": "0.13.1",
+  "major": "0",
+  "sha": "a621aee47f162e58dda3e7a4322de5547bf81e17"
+ },
+ {
+  "tag": "0.13.2",
+  "ver": "0.13.2",
+  "major": "0",
+  "sha": "213c0f5d654a6a522c4896428edd41c29fa365d2"
+ },
+ {
+  "tag": "0.14_The_Duke_and_the_Hertzog",
+  "ver": "0.14",
+  "major": "0",
+  "sha": "8959a1af02fdf5a3084ae4ee836cecc457ead733"
+ },
+ {
+  "tag": "0.14.1",
+  "ver": "0.14.1",
+  "major": "0",
+  "sha": "7e49b9872425c943943220002468113b74e84f50"
+ },
+ {
+  "tag": "0.14.2",
+  "ver": "0.14.2",
+  "major": "0",
+  "sha": "3ea2766521a367c7bd1c225a2e595de9ecf49729"
+ },
+ {
+  "tag": "0.15_Leaving_for_Syria",
+  "ver": "0.15",
+  "major": "0",
+  "sha": "1dd462b6e5e17b46212ef5f34f1d854e7f2595af"
+ },
+ {
+  "tag": "0.15.1",
+  "ver": "0.15.1",
+  "major": "0",
+  "sha": "ec83d7539c43dd3948880c4956a77160932b9b42"
+ },
+ {
+  "tag": "0.15.2",
+  "ver": "0.15.2",
+  "major": "0",
+  "sha": "9a96efb968161e39fa239ae34637fbeeec49db40"
+ },
+ {
+  "tag": "0.16_Hindsight_is_2020",
+  "ver": "0.16",
+  "major": "0",
+  "sha": "68a73108fc762178cc62befcc2041bac7880af78"
+ },
+ {
+  "tag": "0.16.1",
+  "ver": "0.16.1",
+  "major": "0",
+  "sha": "f807613edabf45947554c185b1bc183d757079c5"
+ },
+ {
+  "tag": "0.17_Springtime_for_Kaiser",
+  "ver": "0.17",
+  "major": "0",
+  "sha": "18438c6887d69891044a1aff5a0800eaa3d1c3a7"
+ },
+ {
+  "tag": "0.17.1",
+  "ver": "0.17.1",
+  "major": "0",
+  "sha": "b62198898af9e2d88140d8bce0c3f4b140309d22"
+ },
+ {
+  "tag": "0.18_Forest_Brothers",
+  "ver": "0.18",
+  "major": "0",
+  "sha": "038dab4f591317d1461d7211549b3042f735153e"
+ },
+ {
+  "tag": "0.18.1",
+  "ver": "0.18.1",
+  "major": "0",
+  "sha": "31cb53762534a0591ee7899af47e081996a88ce0"
+ },
+ {
+  "tag": "0.19_March_on_the_Drina",
+  "ver": "0.19",
+  "major": "0",
+  "sha": "c1921ffd3b692fc22e357ce763710aa107f63a4f"
+ },
+ {
+  "tag": "0.19.1",
+  "ver": "0.19.1",
+  "major": "0",
+  "sha": "f62f1bf5feab1cc95a1c3285d9b4bee0743540fe"
+ },
+ {
+  "tag": "0.19.2",
+  "ver": "0.19.2",
+  "major": "0",
+  "sha": "675da5d981f46786953eecbf30b0ec8854fee22a"
+ },
+ {
+  "tag": "0.20_Railway_of_Liberty",
+  "ver": "0.20",
+  "major": "0",
+  "sha": "e8f0327af0b5fba8b050fcd96977d2a388e057cb"
+ },
+ {
+  "tag": "0.20.1",
+  "ver": "0.20.1",
+  "major": "0",
+  "sha": "97ae169bd3deb158fe5d022b6b93b1e3e0d5e28c"
+ },
+ {
+  "tag": "0.21_A_World_Aflame",
+  "ver": "0.21",
+  "major": "0",
+  "sha": "5aa36a54f7ada72c6dce7e1fe0a2a8f463cfc465"
+ },
+ {
+  "tag": "0.21.1",
+  "ver": "0.21.1",
+  "major": "0",
+  "sha": "5238999092f34e53d23b28e532e261197bc5a158"
+ },
+ {
+  "tag": "0.21.2",
+  "ver": "0.21.2",
+  "major": "0",
+  "sha": "395f662a64a124fa3dd8020057f30dfcde1b9eaf"
+ },
+ {
+  "tag": "0.22_Shattered_Crescent",
+  "ver": "0.22",
+  "major": "0",
+  "sha": "0aef78922a3f52d570a25067bca87bc4bcf247bf"
+ },
+ {
+  "tag": "0.22.1",
+  "ver": "0.22.1",
+  "major": "0",
+  "sha": "95218d13d469f0f6aa9d91e58d876bb1b22c0700"
+ },
+ {
+  "tag": "0.22.2",
+  "ver": "0.22.2",
+  "major": "0",
+  "sha": "143a6e1efe2602a73eecfd593f89de5bc2e65bb1"
+ },
+ {
+  "tag": "0.22.3",
+  "ver": "0.22.3",
+  "major": "0",
+  "sha": "18cae2dcd0e008c8d72e612a3860ce9fe3bb9791"
+ },
+ {
+  "tag": "0.23_Not_Yet_Lost",
+  "ver": "0.23",
+  "major": "0",
+  "sha": "696c1e71894a2f8b75d77548e4cae2408d2459c3"
+ },
+ {
+  "tag": "0.23.1",
+  "ver": "0.23.1",
+  "major": "0",
+  "sha": "53cc457225f4145e7a1464c7b066d25bc7dda99f"
+ },
+ {
+  "tag": "0.23.2",
+  "ver": "0.23.2",
+  "major": "0",
+  "sha": "c6571fe78368e934a440580dc080d5a769a26f7c"
+ },
+ {
+  "tag": "0.23.3",
+  "ver": "0.23.3",
+  "major": "0",
+  "sha": "647c086a1cf7240b655cc28d32331143cb0a64a3"
+ },
+ {
+  "tag": "0.24_Year_of_the_Rabbit",
+  "ver": "0.24",
+  "major": "0",
+  "sha": "b598fe7e7a509ec0e59915b2eb5463d15a823b77"
+ },
+ {
+  "tag": "0.24.1",
+  "ver": "0.24.1",
+  "major": "0",
+  "sha": "46cbe13f8afba58e8c934ce4672aea2752be4b46"
+ },
+ {
+  "tag": "0.24.2",
+  "ver": "0.24.2",
+  "major": "0",
+  "sha": "1e7a95dea04fba69fafe7eccc61d3d0aed8e1686"
+ },
+ {
+  "tag": "0.25_On_the_Wide_Steppe",
+  "ver": "0.25",
+  "major": "0",
+  "sha": "68dede9522e7d2c12ada52135302c9f7a20ecb1d"
+ },
+ {
+  "tag": "0.25.1",
+  "ver": "0.25.1",
+  "major": "0",
+  "sha": "b16bdf9a39307950e66f8a72b12e1b8ed59422a0"
+ },
+ {
+  "tag": "0.25.2",
+  "ver": "0.25.2",
+  "major": "0",
+  "sha": "c16f401da182b9cb17505f1f13c2245cd66bd96c"
+ },
+ {
+  "tag": "0.25.3",
+  "ver": "0.25.3",
+  "major": "0",
+  "sha": "fb6b7ac276beae18d32c6876890074120d3cc19d"
+ },
+ {
+  "tag": "0.25.4",
+  "ver": "0.25.4",
+  "major": "0",
+  "sha": "464c2a7da84d4ea14ae99728afaad50b261c920a"
+ },
+ {
+  "tag": "0.26_Blue_Sky_White_Sun",
+  "ver": "0.26",
+  "major": "0",
+  "sha": "a8dece674982a18309c4c32a51e9e1da4acd7d66"
+ },
+ {
+  "tag": "0.26.1",
+  "ver": "0.26.1",
+  "major": "0",
+  "sha": "18d2a87b2854c68ab8bbfe4917c592a66abe2af6"
+ },
+ {
+  "tag": "0.26.2",
+  "ver": "0.26.2",
+  "major": "0",
+  "sha": "881a1d45f36270342b9041d136a049bbe2b255df"
+ },
+ {
+  "tag": "0.27_Calling_All_Workers",
+  "ver": "0.27",
+  "major": "0",
+  "sha": "9feb98ad0e3bd0600eb1471f04a0cc31d74a0305"
+ },
+ {
+  "tag": "0.27.1",
+  "ver": "0.27.1",
+  "major": "0",
+  "sha": "0ea4d7b0d3d0a9ed03efb5b31a1686a21b859ce9"
+ },
+ {
+  "tag": "0.27.2",
+  "ver": "0.27.2",
+  "major": "0",
+  "sha": "4522f671a74fec3b06dd364c206d72adb25395b3"
+ },
+ {
+  "tag": "0.27.3",
+  "ver": "0.27.3",
+  "major": "0",
+  "sha": "dddfc1e82258ba4831597b4e4db16cf247652458"
+ },
+ {
+  "tag": "0.27.4",
+  "ver": "0.27.4",
+  "major": "0",
+  "sha": "95cf98d50b5e5699618f51125e5c7d460f11b80d"
+ },
+ {
+  "tag": "1.0_The_Empire_Strikes_Back",
+  "ver": "1.0",
+  "major": "1.0",
+  "sha": "822e63d09455df65efaa220de03ff473bb5faeff"
+ },
+ {
+  "tag": "1.0.1",
+  "ver": "1.0.1",
+  "major": "1.0",
+  "sha": "b414438e80616af12fc2d6ed256ba78e46eedf45"
+ },
+ {
+  "tag": "1.0.2",
+  "ver": "1.0.2",
+  "major": "1.0",
+  "sha": "c75779a93f8df9859ae4d52bc4264a88bb23b8eb"
+ },
+ {
+  "tag": "1.0.3",
+  "ver": "1.0.3",
+  "major": "1.0",
+  "sha": "4066c1ef87c44bfc388873232905275f6e771bff"
+ },
+ {
+  "tag": "1.0.4",
+  "ver": "1.0.4",
+  "major": "1.0",
+  "sha": "5522607b8519e9431459c0c45fbccacba1ddaa53"
+ },
+ {
+  "tag": "1.1",
+  "ver": "1.1",
+  "major": "1.1",
+  "sha": "8b612bf5ae755a38803131174b9c176bc77b4eb3"
+ },
+ {
+  "tag": "1.1.1",
+  "ver": "1.1.1",
+  "major": "1.1",
+  "sha": "db37ce8fa81a0a789edb78e4086458c2015ddfff"
+ },
+ {
+  "tag": "1.1.2",
+  "ver": "1.1.2",
+  "major": "1.1",
+  "sha": "e4132d24a14c2ce0dd171b5444437f10a8e533ac"
+ },
+ {
+  "tag": "1.1.3",
+  "ver": "1.1.3",
+  "major": "1.1",
+  "sha": "7bf746747a134c2c31082fc599b2906d3767a587"
+ },
+ {
+  "tag": "1.1.4",
+  "ver": "1.1.4",
+  "major": "1.1",
+  "sha": "8b27f274acee4ce66675049141f311a201fa5a84"
+ },
+ {
+  "tag": "1.2a_Pour_le_Mérite",
+  "ver": "1.2a",
+  "major": "1.2",
+  "sha": "9796277ea250a002349d59e49326a0f8f7996005"
+ },
+ {
+  "tag": "1.3_Amid_Blue_Coloured_Seas",
+  "ver": "1.3",
+  "major": "1.3",
+  "sha": "cf64adea3e7fc97bac176f521a3a313e0be53d93"
+ },
+ {
+  "tag": "1.3.1",
+  "ver": "1.3.1",
+  "major": "1.3",
+  "sha": "889a8f5668a28a4c7e05a03d8285456dd7c6bc4c"
+ },
+ {
+  "tag": "1.3.2",
+  "ver": "1.3.2",
+  "major": "1.3",
+  "sha": "ba6d7c950258d3395deb7fc7186a06e2a912fe34"
+ },
+ {
+  "tag": "1.3.3",
+  "ver": "1.3.3",
+  "major": "1.3",
+  "sha": "fb4875ec1de2ca708b60a63fba715e885cf3649a"
+ },
+ {
+  "tag": "1.4_All_the_Russias",
+  "ver": "1.4",
+  "major": "1.4",
+  "sha": "a0b8a4af6f4775344168361c73fde2ee8b7f008a"
+ },
+ {
+  "tag": "1.4.1",
+  "ver": "1.4.1",
+  "major": "1.4",
+  "sha": "988f0db96da7bfb4aef64971df7e2fb8ecc8af3d"
+ },
+ {
+  "tag": "1.4.2a",
+  "ver": "1.4.2a",
+  "major": "1.4",
+  "sha": "98aaf418cdff65079995cb82be7ac97d0980ecde"
+ },
+ {
+  "tag": "1.4.3b",
+  "ver": "1.4.3b",
+  "major": "1.4",
+  "sha": "62852bc0e28ff099d0c520f8108b15cfdef2cb83"
+ },
+ {
+  "tag": "1.4.4e",
+  "ver": "1.4.4e",
+  "major": "1.4",
+  "sha": "a8fb266587473bddc880c3117ce2bad2740a0e44"
+ },
+ {
+  "tag": "1.4.5b",
+  "ver": "1.4.5b",
+  "major": "1.4",
+  "sha": "30b7d2c9b457b8e6f4ac66f83160dfa29c97dd83"
+ },
+ {
+  "tag": "1.5a_Brave_New_World",
+  "ver": "1.5a",
+  "major": "1.5",
+  "sha": "c4f199c0797b28873094988107939ebf3aed2ee8"
+ },
+ {
+  "tag": "1.5.1a",
+  "ver": "1.5.1a",
+  "major": "1.5",
+  "sha": "923c3de435dc8032a231e552194738885e85273a"
+ },
+ {
+  "tag": "1.5.2a",
+  "ver": "1.5.2a",
+  "major": "1.5",
+  "sha": "53a239f74e572357835fd58a156e19c00ce5384f"
+ },
+ {
+  "tag": "1.5.3a",
+  "ver": "1.5.3a",
+  "major": "1.5",
+  "sha": "8a69c897d76f2d11b6fca3d8fa3f39c05fd57a4b"
+ },
+ {
+  "tag": "1.5.4b",
+  "ver": "1.5.4b",
+  "major": "1.5",
+  "sha": "599c255ef64134526379f3d637d2f38dd7c14402"
+ },
+ {
+  "tag": "1.5.5",
+  "ver": "1.5.5",
+  "major": "1.5",
+  "sha": "a26ceb1a812f49aa35c3ed88f04b705fc46ed9d2"
+ },
+ {
+  "tag": "1.5.6",
+  "ver": "1.5.6",
+  "major": "1.5",
+  "sha": "63dc914297942cfe4abe78f8370ae412ce98f65c"
+ },
+ {
+  "tag": "1.6a_What_Happened_in_Ju",
+  "ver": "1.6a",
+  "major": "1.6",
+  "sha": "ecfd4b8d541aebed7025747e26a1bb82deef5e0d"
+ },
+ {
+  "tag": "1.6.1a",
+  "ver": "1.6.1a",
+  "major": "1.6",
+  "sha": "735cd8e7aafa338dc97cf76a066016b7073774df"
+ },
+ {
+  "tag": "1.6.2a",
+  "ver": "1.6.2a",
+  "major": "1.6",
+  "sha": "c17560a6bc6ba6bf01c8943ab31a1d65f767ee41"
+ },
+ {
+  "tag": "1.6.2b",
+  "ver": "1.6.2b",
+  "major": "1.6",
+  "sha": "98457f2a63adfae1f50c92dd61d37fdb67a4a54d"
+ },
+ {
+  "tag": "1.6.2",
+  "ver": "1.6.2",
+  "major": "1.6",
+  "sha": "e4b1f20685c810c4625d555d00f9fde4ff4a00be"
+ },
+ {
+  "tag": "1.6.3a",
+  "ver": "1.6.3a",
+  "major": "1.6",
+  "sha": "9131e9ebe18880d307caa5914db2e25c12a2d0a4"
+ },
+ {
+  "tag": "1.6.3b",
+  "ver": "1.6.3b",
+  "major": "1.6",
+  "sha": "2861f472889ccac6769a7ff65b1207c846a478b7"
+ },
+ {
+  "tag": "1.6.3c",
+  "ver": "1.6.3c",
+  "major": "1.6",
+  "sha": "f814527fdf67c062066048f74113252b17d55f13"
+ },
+ {
+  "tag": "1.6.3d",
+  "ver": "1.6.3d",
+  "major": "1.6",
+  "sha": "b58488db70b379d592108307e29500d0d207dddd"
+ },
+ {
+  "tag": "1.6.3",
+  "ver": "1.6.3",
+  "major": "1.6",
+  "sha": "54617b9caef1a35c20deb7a1bbba9611f9c9bd7c"
+ },
+ {
+  "tag": "1.6.4a",
+  "ver": "1.6.4a",
+  "major": "1.6",
+  "sha": "a891c32c2f5bdcbff88feacacd93dce8fe8d0571"
+ },
+ {
+  "tag": "1.6.4b",
+  "ver": "1.6.4b",
+  "major": "1.6",
+  "sha": "152cdcb52c10c4d31c3ef01dbc4871e6edaa8eca"
+ },
+ {
+  "tag": "1.6.4c",
+  "ver": "1.6.4c",
+  "major": "1.6",
+  "sha": "00f64443a8a3ec4ae0cc78179efade3cb41e1946"
+ },
+ {
+  "tag": "1.6.4",
+  "ver": "1.6.4",
+  "major": "1.6",
+  "sha": "41f71dda33c363c57dd5cbc4ac80eeb95320e0d4"
+ },
+ {
+  "tag": "1.6.7",
+  "ver": "1.6.7",
+  "major": "1.6",
+  "sha": "aa88942f155038a8f331a369b0971ea697aba7eb"
+ },
+ {
+  "tag": "1.7a",
+  "ver": "1.7a",
+  "major": "1.7",
+  "sha": "c5ca9aadf4abebf3741d05f8ce93f650d0c6d65c"
+ },
+ {
+  "tag": "1.7b",
+  "ver": "1.7b",
+  "major": "1.7",
+  "sha": "b603c934c871c7e4ef1c08a2dad19a77e6342ca1"
+ },
+ {
+  "tag": "1.7",
+  "ver": "1.7",
+  "major": "1.7",
+  "sha": "0e90e109cf03559bcdb108d9351cc39c95c4ecfe"
+ },
+ {
+  "tag": "1.7.1",
+  "ver": "1.7.1",
+  "major": "1.7",
+  "sha": "d21f1c7c091f080e9e0f7d39f7173a384ba0e0db"
+ }
+]
