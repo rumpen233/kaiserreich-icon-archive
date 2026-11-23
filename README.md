@@ -4,6 +4,8 @@
 
 数据覆盖 GitHub 上的 **100 个 tag**：从最早的 `0.11_The_Long_Road_Home` 一直到 `1.7.1`。
 
+**在线访问：** <https://rumpen233.github.io/kaiserreich-icon-archive/>
+
 ## 页面能做什么
 
 - 按版本查看每个图标的视觉历史，多次重绘会以多格胶片展示
